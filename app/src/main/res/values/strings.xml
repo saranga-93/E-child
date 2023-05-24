@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">E-CHILD</string>
+    <string name="tvMoto">E-child</string>
+    <string name="tvask">Who are you?</string>
+    <string name="btnChild">Child</string>
+    <string name="btnParent">Parent</string>
+    <string name="tvGreet">Hello parent</string>
+    <string name="etMail">Enter your Email</string>
+    <string name="etPass">Enter Your Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="tvCreate">Don\'t have an account</string>
+    <string name="btnSignup">Sign up</string>
+    <string name="tvregform">Registartion Form</string>
+    <string name="etRegconf">Confirm Password</string>
+    <string name="etRegpass">Enter your Password</string>
+    <string name="etRegname">Enter your name</string>
+    <string name="etregPhone">Enter your Phone</string>
+    <string name="etRegmail">Enter your E-mail</string>
+    <string name="btnRegister">Register</string>
+    <string name="btnChildlogin">Login</string>
+    <string name="tvChildmoto">Child Login</string>
+    <string name="etChildmail">Enter your email</string>
+    <string name="etChildpass">Enter Your password</string>
+    <string name="tvCalculator">Calculator</string>
+    <string name="etFirstnumber">Enter the first number</string>
+    <string name="etSecondnumber">Enter the second number</string>
+    <string name="tvans">Ans</string>
+    <string name="btnadd">+</string>
+    <string name="btnSubstract">-</string>
+    <string name="btnMultiply">*</string>
+    <string name="btnDivide">/</string>
+    <string name="tvParentDash">Hello Parent</string>
+    <string name="btnParentDashLocate">Locate My child</string>
+    <string name="title_activity_finding_location_maps">Maps</string>
+</resources>
